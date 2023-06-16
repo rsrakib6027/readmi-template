@@ -125,9 +125,16 @@ http://www.studywithrakib.com
 <img src=./images/Rakib.jpg width="400" 
 title="Rakibul Islam"/>
 
+🤲😀
 
+<br>
 
-
+## Table syntax
+| Name | Email |
+| ---- | ----|
+| Rakibul Islam | Text is here |
+| Rakibul Islam | rjrakibulislam@gmail.com |
+| Rakibul Islam | Text is here |
 
 <!-- all link is here -->
 [websitelink]:http://www.studywithrakib.com
